@@ -4,7 +4,7 @@ int main()
 {
     char str[100];    
     int l = 0;
-    printf("enter the sring");
+    printf("enter the string");
     scanf("%s",str);
     int h = strlen(str) - 1;
     while (h > l) {
